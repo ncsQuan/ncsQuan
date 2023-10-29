@@ -8,11 +8,17 @@
 <li>I'm looking for help with <b>trading</b>🤔</li>
 <li>💬Ask me about my journey as a software engineer</li>
 
+
 <h2>How to reach me: ...📫 </h2>
 
-<a href="https://www.linkedin.com/in/naquan-s/" style="height: 20px; width: 20px;">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/naquan-s/" >
+  <img src="https://www.linkedin.com/favicon.ico" style="height: 35px; width: 35px;"  alt="LinkedIn" />
 </a> 
+
+<a href="https://github.com/ncsQuan" >
+  <img src="https://github.com/favicon.ico" style="height: 35px; width: 35px;"  alt="GitHub" />
+</a> 
+
 
 <!--<p>⚡ Fun fact: ...</p>
 <p>The atom </p>
