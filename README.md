@@ -15,15 +15,11 @@
   <img src="https://www.linkedin.com/favicon.ico" style="height: 35px; width: 35px;"  alt="LinkedIn" />
 </a> 
 
-<a href="https://github.com/ncsQuan" >
-  <img src="https://github.com/favicon.ico" style="height: 35px; width: 35px;"  alt="GitHub" />
-</a> 
 
 
 <!--<p>⚡ Fun fact: ...</p>
 <p>The atom </p>
 <br>-->
-<p>😄 Pronouns: He/Him</p>
 
 <!-- gifs -->
 <!--
