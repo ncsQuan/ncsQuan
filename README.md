@@ -8,7 +8,7 @@
   <li>📖 learning about <b>Machine Learning</b> & <b>React</b> 🌱</li>
   <li>🏘️ looking to collaborate on web & app development👯</li>
   <li>🆘 looking for help with <b>trading</b>🤔</li>
-  <li>💬 and always will be open to interacting with great people</li>
+  <li>💬 and always will be open to connect</li>
 </ul>
 
 
