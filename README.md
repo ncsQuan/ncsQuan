@@ -6,7 +6,7 @@
 <ul>
   <li>💻 working on a web portfolio🔭</li>
   <li>📖 learning about <b>Machine Learning</b> & <b>React</b> 🌱</li>
-  <li>🏘️ looking to collaborate on web & app development👯</li>
+  <li>🏘️ looking to collaborate on web & app development 👯</li>
   <li>🆘 looking for help with <b>day trading </b>🤔</li>
   <li>💬 and always will be open to connect</li>
 </ul>
