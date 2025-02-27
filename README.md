@@ -4,10 +4,10 @@
 
 <p>I am currently ...</p>
 <ul>
-  <li>💻 working on a web portfolio🔭</li>
+  <li>💻 Working on my next masterpiece🔭</li>
 
 
-  <li>🆘 looking for help with <b>day trading </b>🤔</li>
+  <!-- <li>🆘 looking for help with <b>day trading </b>🤔</li> -->
   <li>💬 and always will be open to connect</li>
 </ul>
 
