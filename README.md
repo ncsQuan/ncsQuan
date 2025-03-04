@@ -13,10 +13,10 @@
 
 
 <h2>How to reach me: ...📫 </h2>
-
-<a href="https://www.linkedin.com/in/naquan-s/" >
-  <img src="https://www.linkedin.com/favicon.ico" style="height: 35px; width: 35px;"  alt="LinkedIn" />
-</a> 
+Contact@NaquanSmith.com
+<!--  <a href="https://www.linkedin.com/in/naquan-s/" >
+<img src="https://www.linkedin.com/favicon.ico" style="height: 35px; width: 35px;"  alt="LinkedIn" /> 
+</a>  -->
 
 
 
