@@ -1,6 +1,6 @@
 <h1>Naquan Smith</h1>
 <h3>Hello! 👋</h3>
-<p> I am a <b>software engineer</b>, <!-- a <b>graduate</b> student at <a href="https://www.gatech.edu/"><b>Georgia Institute of Technology</b></a>,--> and a <b>manga</b> lover that loves to help and improve in all aspects of life.</p> 
+ 
 
 <p>I am currently ...</p>
 <ul>
